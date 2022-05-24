@@ -1,2 +1,2 @@
 # OT-Checker
-OT-Checker with Slack, AWS
+OT-Checker with Slack, Google
